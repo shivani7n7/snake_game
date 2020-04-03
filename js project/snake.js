@@ -17,12 +17,12 @@ function init(){
 
     // create an image object for food
     food_image = new Image();
-    food_image.src = "/js project/assets/apple.png";
+    food_image.src = "js project/assets/apple.png";
 
 
     // create an image object for trophy
     trophy_image = new Image();
-    trophy_image.src = "/js project/assets/trophy.png";
+    trophy_image.src = "js project/assets/trophy.png";
 
     // Getting sound tracks
     var bgm = document.getElementById('bgm');
